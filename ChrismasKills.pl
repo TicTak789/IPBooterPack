@@ -1,5 +1,5 @@
 #!/usr/bin/perl##
-# Coded By Stealth Hackers #
+# Coded By Cap__central #
 ##
 
 use Socket;
@@ -16,8 +16,8 @@ socket(flood, PF_INET, SOCK_DGRAM, 17);
 print " port " . ($port ? $port : "random") . " " .
   ($size ? "$size-byte" : "") . "                                                           
  
- ×HoHoHo Merry Chrismas×
-    Get Hit With Santas Bag           
+ ×Lets Hit That Lil Mug×
+    Get Hit Wit My Big Fat Cock           
    //IP iS Nulled\\		   
 " .
   ($time ? "" : "") . "\n";
